@@ -1,1 +1,3 @@
-print("Hello World!")
+print("Hello Oleksii!")
+
+x = input("type number: ")
